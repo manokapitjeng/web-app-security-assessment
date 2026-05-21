@@ -4,4 +4,4 @@ This repository is for organising my work during a controlled web application se
 
 During the assessment, I will review the application’s functionality, inspect HTTP requests and responses, identify possible vulnerabilities, collect supporting screenshots, and document each finding with its impact and recommended remediation.
 
-This repository is private and will only be used for assessment documentation. It will not be used to share answers, flags, or public walkthroughs.
+
